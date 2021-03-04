@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# K nearest neighbour and decision tree
